@@ -61,3 +61,4 @@ class Scoreboard {
     }
 }
 
+// adding contributors isn't working correctly
